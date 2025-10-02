@@ -1,0 +1,3 @@
+CPU	User:danil	Host:VirtualBox	Temp:60.00	Time:Thu Oct  2 21:47:39 2025
+CPU	User:danil	Host:VirtualBox	Temp:53.00	Time:Thu Oct  2 21:47:40 2025
+CPU	User:danil	Host:VirtualBox	Temp:96.00	Time:Thu Oct  2 21:47:41 2025
